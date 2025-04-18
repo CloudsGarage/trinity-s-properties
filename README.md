@@ -1,0 +1,1 @@
+# trinity-s-properties
